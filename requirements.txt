@@ -2,5 +2,5 @@ streamlit
 pandas
 folium
 plost
-st_folium
+streamlit-folium
 numpy
